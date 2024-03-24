@@ -15,7 +15,7 @@ type ValidateRow<T> = {
       :
           | {
               readonly text: string;
-              readonly type: "text";
+              readonly type: "terxt";
             }
           | {
               text: string;
