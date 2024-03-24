@@ -37,7 +37,7 @@
     "format-check": "prettier . --check",
     "lint": "eslint . --fix",
     "lint-check": "eslint .",
-    "start": "node --enable-source-maps ./bundle/index.js",
+    "st  art": "node --enable-source-maps ./bundle/index.js",
     "test": "glob \"src/**/*.test.ts\" \"test/**\" -c \"tsx --test\""
   },
   "devDependencies": {
